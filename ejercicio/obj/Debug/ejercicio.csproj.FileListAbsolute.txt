@@ -1,0 +1,8 @@
+C:\Users\samaritano\Documents\GitHub\UMH-POO\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\samaritano\Documents\GitHub\UMH-POO\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\samaritano\Documents\GitHub\UMH-POO\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\samaritano\Documents\GitHub\UMH-POO\ejercicio\obj\Debug\ejercicio.csproj.AssemblyReference.cache
+C:\Users\samaritano\Documents\GitHub\UMH-POO\ejercicio\obj\Debug\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\samaritano\Documents\GitHub\UMH-POO\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\samaritano\Documents\GitHub\UMH-POO\ejercicio\obj\Debug\ejercicio.pdb
+C:\Users\samaritano\Documents\GitHub\UMH-POO\ejercicio\obj\Debug\ejercicio.exe.config
